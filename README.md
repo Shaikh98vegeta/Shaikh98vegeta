@@ -68,6 +68,21 @@
 ---
 
 ## 🌟 Featured Projects
+🌐 Web App: Sensor Device Cloud Data Monitoring A real-time web application for monitoring environmental sensor data, including PM2.5, PM10, temperature, humidity, and pressure.
+This platform provides: 
+* Live Data Visualization: Graphical representation of sensor data in real-time.
+* Historical Data Insights: Access to past sensor readings for analysis.
+* Sensor Management: Easy sensor updates and configuration.
+* Tech Stack: JavaScript, React, Node.js, Python, Express, MongoDB, Google Cloud
+
+🏭 IIoT Web App
+An industrial-grade high-performance web application designed for IIoT (Industrial Internet of Things) systems. 
+This platform is optimized for:
+* High Performance: Ensures seamless and reliable operation for industrial use cases.
+* MQTT Protocol Integration: For efficient and lightweight communication with devices.
+* State Management: Powered by Redux for scalable and predictable state handling.
+* Tech Stack: JavaScript, React, Node.js, Express, MQTT, SQL 
+
 
 ---
 
