@@ -83,6 +83,10 @@ This platform is optimized for:
 * State Management: Powered by Redux for scalable and predictable state handling.
 * Tech Stack: JavaScript, React, Node.js, Express, MQTT, SQL 
 
+📱 Backend for Android App
+  A robust backend system for an Android application, featuring user authentication, data storage, and cloud integration. 
+  Achieved real-time alarm notifications sent to the mobile app using Google Cloud Functions.
+  Tech Stack: Node.js, Express, Firestore SDK, Google Cloud Functions, Firebase Authentication, Firebase Database Storage.
 
 ---
 
@@ -91,12 +95,14 @@ This platform is optimized for:
 
 ---
 
-## 🏆 Achievements
-- 🚀 Successfully deployed IoT solutions with ESP32 and MQTT Brokers.  
-- 🔧 Optimized IoT messaging systems using EMQX and Google Cloud.  
-- 📚 Designed prototypes and systems integrating hardware and software seamlessly.
+## 🏆  Achievements
+* IoT Environment Monitoring: Developed a web app for real-time and historical monitoring of PM2.5, PM10, temperature, humidity, and pressure with graphical insights.
+* IIoT High-Performance App: Built an industrial-grade web app with MQTT for seamless and reliable operations in industrial environments.
+* Android App Backend: Designed a Node.js backend with Firebase for user authentication, cloud storage, and real-time alarm notifications via Google Cloud Functions.
+* Email Notification System: Created a Node.js app to send automated email notifications via Outlook and Gmail using Nodemailer.
+* Python Automation: Built an app for real-time note automation with system restart persistence using psutil.
+* Modbus Data Visualization: Developed a Python-React app to read Modbus PLC data, display results, and show real-time alerts via popup notifications.
 
----
 
 
 
